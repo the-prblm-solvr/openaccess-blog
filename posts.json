@@ -15,19 +15,19 @@
       },
       {
         "type": "p",
-        "text": "Inclusive design and accessible design are not interchangeable. They're more like siblings—related but definitely not the same. And believing one negates the need for the other is not just wrong; it’s downright dangerous to your users and your brand. Here’s why this myth persists, why it’s wrong, and how to approach designing experiences that are both inclusive and accessible."
+        "text": "Inclusive design and accessible design are not interchangeable. They're more like siblings\u2014related but definitely not the same. And believing one negates the need for the other is not just wrong; it\u2019s downright dangerous to your users and your brand. Here\u2019s why this myth persists, why it\u2019s wrong, and how to approach designing experiences that are both inclusive and accessible."
       },
       {
         "type": "p",
-        "text": "Inclusive design is rooted in the idea of designing for everyone. It seeks to create solutions that consider a broad spectrum of human diversity—age, gender, culture, and abilities. Sounds like accessibility should be built into that, right? Not quite."
+        "text": "Inclusive design is rooted in the idea of designing for everyone. It seeks to create solutions that consider a broad spectrum of human diversity\u2014age, gender, culture, and abilities. Sounds like accessibility should be built into that, right? Not quite."
       },
       {
         "type": "p",
-        "text": "Accessibility focuses specifically on removing barriers for people with disabilities. It’s detailed, technical, and often governed by legal requirements (like WCAG). Inclusive design can inspire accessible solutions, but it doesn’t automatically ensure them. Why? Because inclusivity looks at the big picture, while accessibility delves into the nitty-gritty of specific barriers."
+        "text": "Accessibility focuses specifically on removing barriers for people with disabilities. It\u2019s detailed, technical, and often governed by legal requirements (like WCAG). Inclusive design can inspire accessible solutions, but it doesn\u2019t automatically ensure them. Why? Because inclusivity looks at the big picture, while accessibility delves into the nitty-gritty of specific barriers."
       },
       {
         "type": "p",
-        "text": "Ignoring accessibility under the guise of inclusivity is like throwing a party and inviting everyone—only to hold it at a venue with stairs and no ramps. Sure, you had good intentions, but that doesn’t matter if people can’t get in the door."
+        "text": "Ignoring accessibility under the guise of inclusivity is like throwing a party and inviting everyone\u2014only to hold it at a venue with stairs and no ramps. Sure, you had good intentions, but that doesn\u2019t matter if people can\u2019t get in the door."
       },
       {
         "type": "h2",
@@ -39,7 +39,7 @@
       },
       {
         "type": "p",
-        "text": "Inclusive design aims to accommodate diverse users, but it often fails to address the unique requirements of people with disabilities. For instance, a sleek, minimalist app might cater to a broad audience but could be entirely unusable for someone relying on a screen reader if the buttons aren’t properly labeled."
+        "text": "Inclusive design aims to accommodate diverse users, but it often fails to address the unique requirements of people with disabilities. For instance, a sleek, minimalist app might cater to a broad audience but could be entirely unusable for someone relying on a screen reader if the buttons aren\u2019t properly labeled."
       },
       {
         "type": "p",
@@ -51,7 +51,7 @@
       },
       {
         "type": "p",
-        "text": "Brands love to brag about inclusivity. But inclusivity without accessibility is performative. It’s diversity in the visuals and messaging without addressing the structural inequalities that exclude users with disabilities."
+        "text": "Brands love to brag about inclusivity. But inclusivity without accessibility is performative. It\u2019s diversity in the visuals and messaging without addressing the structural inequalities that exclude users with disabilities."
       },
       {
         "type": "p",
@@ -63,7 +63,7 @@
       },
       {
         "type": "p",
-        "text": "Designing inclusively without accessibility compliance can land you in legal hot water. Accessibility lawsuits are on the rise, especially in the digital space. Ignoring accessibility because you think inclusivity covers it is not just bad design—it’s a liability."
+        "text": "Designing inclusively without accessibility compliance can land you in legal hot water. Accessibility lawsuits are on the rise, especially in the digital space. Ignoring accessibility because you think inclusivity covers it is not just bad design\u2014it\u2019s a liability."
       },
       {
         "type": "h2",
@@ -75,7 +75,7 @@
       },
       {
         "type": "p",
-        "text": "“Accessible” and “inclusive” are often used interchangeably, even though they address different facets of design. This confusion can lead designers to believe they’re hitting both marks when they’re not."
+        "text": "\u201cAccessible\u201d and \u201cinclusive\u201d are often used interchangeably, even though they address different facets of design. This confusion can lead designers to believe they\u2019re hitting both marks when they\u2019re not."
       },
       {
         "type": "h3",
@@ -83,7 +83,7 @@
       },
       {
         "type": "p",
-        "text": "Accessibility isn’t always part of formal design education. Many designers start their careers without understanding screen readers, ARIA roles, or the nuances of color contrast. Inclusive design principles might come more naturally, but accessibility requires specific knowledge."
+        "text": "Accessibility isn\u2019t always part of formal design education. Many designers start their careers without understanding screen readers, ARIA roles, or the nuances of color contrast. Inclusive design principles might come more naturally, but accessibility requires specific knowledge."
       },
       {
         "type": "h3",
@@ -91,7 +91,7 @@
       },
       {
         "type": "p",
-        "text": "It’s tempting to think inclusivity is a catch-all solution. After all, no one likes extra work. But accessibility is not an “extra”—it’s essential."
+        "text": "It\u2019s tempting to think inclusivity is a catch-all solution. After all, no one likes extra work. But accessibility is not an \u201cextra\u201d\u2014it\u2019s essential."
       },
       {
         "type": "h2",
@@ -99,7 +99,7 @@
       },
       {
         "type": "p",
-        "text": "To design experiences that are both inclusive and accessible, you need to approach design with a multi-layered mindset. Here’s how:"
+        "text": "To design experiences that are both inclusive and accessible, you need to approach design with a multi-layered mindset. Here\u2019s how:"
       },
       {
         "type": "h3",
@@ -107,7 +107,7 @@
       },
       {
         "type": "p",
-        "text": "Empathy is the cornerstone of inclusive design, but it’s not enough. Bring in accessibility experts early in the design process. Consult users with disabilities to understand their real-world needs."
+        "text": "Empathy is the cornerstone of inclusive design, but it\u2019s not enough. Bring in accessibility experts early in the design process. Consult users with disabilities to understand their real-world needs."
       },
       {
         "type": "h3",
@@ -123,7 +123,7 @@
       },
       {
         "type": "p",
-        "text": "Accessibility testing isn’t optional. Automated tools are helpful, but they can’t replace testing with real users. Include people with disabilities in your user research to uncover barriers you might never have considered."
+        "text": "Accessibility testing isn\u2019t optional. Automated tools are helpful, but they can\u2019t replace testing with real users. Include people with disabilities in your user research to uncover barriers you might never have considered."
       },
       {
         "type": "h3",
@@ -135,15 +135,15 @@
       },
       {
         "type": "h2",
-        "text": "Case Study: Netflix’s Subtitles"
+        "text": "Case Study: Netflix\u2019s Subtitles"
       },
       {
         "type": "p",
-        "text": "Netflix is often hailed as an example of inclusive design. Its content spans languages, cultures, and genres, appealing to a global audience. But inclusivity alone wouldn’t make Netflix accessible."
+        "text": "Netflix is often hailed as an example of inclusive design. Its content spans languages, cultures, and genres, appealing to a global audience. But inclusivity alone wouldn\u2019t make Netflix accessible."
       },
       {
         "type": "p",
-        "text": "By providing closed captions, audio descriptions, and customizable subtitles, Netflix ensures accessibility for users who are deaf, hard of hearing, or have visual impairments. These features don’t just meet accessibility standards—they enhance the viewing experience for all users, like someone watching in a noisy cafe."
+        "text": "By providing closed captions, audio descriptions, and customizable subtitles, Netflix ensures accessibility for users who are deaf, hard of hearing, or have visual impairments. These features don\u2019t just meet accessibility standards\u2014they enhance the viewing experience for all users, like someone watching in a noisy cafe."
       },
       {
         "type": "p",
@@ -155,7 +155,7 @@
       },
       {
         "type": "p",
-        "text": "Inclusive design and accessible design are partners, not substitutes. To design truly equitable experiences, you need both. Start with accessibility to remove barriers, then use inclusivity to broaden the appeal. Together, they ensure your design isn’t just open to everyone—it actively welcomes them."
+        "text": "Inclusive design and accessible design are partners, not substitutes. To design truly equitable experiences, you need both. Start with accessibility to remove barriers, then use inclusivity to broaden the appeal. Together, they ensure your design isn\u2019t just open to everyone\u2014it actively welcomes them."
       },
       {
         "type": "p",
@@ -175,11 +175,11 @@
     "content": [
       {
         "type": "p",
-        "text": "When you design a website, you’re probably picturing a typical user, right? Maybe someone tech-savvy, with a short attention span, ready to scroll through endless content. Here’s the catch: the \"typical\" user doesn’t exist. Especially when you consider that up to 20% of the global population is neurodiverse."
+        "text": "When you design a website, you\u2019re probably picturing a typical user, right? Maybe someone tech-savvy, with a short attention span, ready to scroll through endless content. Here\u2019s the catch: the \"typical\" user doesn\u2019t exist. Especially when you consider that up to 20% of the global population is neurodiverse."
       },
       {
         "type": "p",
-        "text": "Neurodiversity refers to the different ways people experience and interact with the world. Conditions like autism, ADHD, dyslexia, and anxiety affect how people process information, focus, and navigate digital spaces. But here’s the good news: by designing with neurodiverse users in mind, you create a better experience for everyone."
+        "text": "Neurodiversity refers to the different ways people experience and interact with the world. Conditions like autism, ADHD, dyslexia, and anxiety affect how people process information, focus, and navigate digital spaces. But here\u2019s the good news: by designing with neurodiverse users in mind, you create a better experience for everyone."
       },
       {
         "type": "h2",
@@ -187,7 +187,7 @@
       },
       {
         "type": "p",
-        "text": "In the world of UX, there’s often an obsession with designing for \"average\" users. But neurodiverse users—those who think, perceive, and learn differently—challenge the very idea of what \"average\" means. This population requires more thoughtful design approaches, and the kicker? Those same approaches benefit everyone else, too."
+        "text": "In the world of UX, there\u2019s often an obsession with designing for \"average\" users. But neurodiverse users\u2014those who think, perceive, and learn differently\u2014challenge the very idea of what \"average\" means. This population requires more thoughtful design approaches, and the kicker? Those same approaches benefit everyone else, too."
       },
       {
         "type": "p",
@@ -203,7 +203,7 @@
       },
       {
         "type": "p",
-        "text": "Neurodiverse individuals often struggle with sensory overload, especially when too many elements are competing for their attention. The principle of minimalism is an excellent solution here. But before you start thinking about stark, white pages and overly simple layouts, minimalism doesn’t mean stripping away all personality from your site—it means eliminating unnecessary distractions."
+        "text": "Neurodiverse individuals often struggle with sensory overload, especially when too many elements are competing for their attention. The principle of minimalism is an excellent solution here. But before you start thinking about stark, white pages and overly simple layouts, minimalism doesn\u2019t mean stripping away all personality from your site\u2014it means eliminating unnecessary distractions."
       },
       {
         "type": "p",
@@ -219,7 +219,7 @@
       },
       {
         "type": "p",
-        "text": "For someone with ADHD or autism, a clean design can make the difference between feeling overwhelmed or engaged. And let’s be honest, no one’s ever complained that a website was too easy to navigate."
+        "text": "For someone with ADHD or autism, a clean design can make the difference between feeling overwhelmed or engaged. And let\u2019s be honest, no one\u2019s ever complained that a website was too easy to navigate."
       },
       {
         "type": "h2",
@@ -227,7 +227,7 @@
       },
       {
         "type": "p",
-        "text": "Designers love to play with colors, and why wouldn’t they? Color is one of the easiest ways to create brand identity and evoke emotion. But for neurodiverse users, particularly those with dyslexia or visual processing differences, colors can be a tricky area. Poor color contrast can make text nearly impossible to read, and inconsistency across pages can create cognitive friction."
+        "text": "Designers love to play with colors, and why wouldn\u2019t they? Color is one of the easiest ways to create brand identity and evoke emotion. But for neurodiverse users, particularly those with dyslexia or visual processing differences, colors can be a tricky area. Poor color contrast can make text nearly impossible to read, and inconsistency across pages can create cognitive friction."
       },
       {
         "type": "ul",
@@ -239,7 +239,7 @@
       },
       {
         "type": "p",
-        "text": "This doesn’t mean your site needs to look dull or uninspired—it just means being intentional about how and where you use color."
+        "text": "This doesn\u2019t mean your site needs to look dull or uninspired\u2014it just means being intentional about how and where you use color."
       },
       {
         "type": "h2",
@@ -253,13 +253,13 @@
         "type": "ul",
         "items": [
           "Maintain a logical flow on each page. Whether it's a homepage or a product page, users should easily understand what action to take next.",
-          "Keep interactive elements like buttons and links clearly labeled and intuitive. Don’t assume everyone will figure out that a tiny icon is the way to navigate to the next page.",
-          "Consistency is key. Keep layouts and design elements the same across the site so users don’t have to re-learn how to interact with every page."
+          "Keep interactive elements like buttons and links clearly labeled and intuitive. Don\u2019t assume everyone will figure out that a tiny icon is the way to navigate to the next page.",
+          "Consistency is key. Keep layouts and design elements the same across the site so users don\u2019t have to re-learn how to interact with every page."
         ]
       },
       {
         "type": "p",
-        "text": "For users with autism, predictable patterns and clearly defined sections can make the difference between staying engaged or feeling lost. But let’s be real: who doesn’t appreciate a website that’s easy to follow?"
+        "text": "For users with autism, predictable patterns and clearly defined sections can make the difference between staying engaged or feeling lost. But let\u2019s be real: who doesn\u2019t appreciate a website that\u2019s easy to follow?"
       },
       {
         "type": "h2",
@@ -279,7 +279,7 @@
       },
       {
         "type": "p",
-        "text": "Dyslexic users benefit from these changes, but let’s face it—any user is more likely to read your content when it’s broken down in a clear, readable format."
+        "text": "Dyslexic users benefit from these changes, but let\u2019s face it\u2014any user is more likely to read your content when it\u2019s broken down in a clear, readable format."
       },
       {
         "type": "h2",
@@ -298,7 +298,7 @@
       },
       {
         "type": "p",
-        "text": "This flexibility empowers neurodiverse users to create an experience that works for them, but it’s also a win for anyone who likes a more personalized interaction with the web."
+        "text": "This flexibility empowers neurodiverse users to create an experience that works for them, but it\u2019s also a win for anyone who likes a more personalized interaction with the web."
       },
       {
         "type": "h2",
@@ -325,15 +325,15 @@
       },
       {
         "type": "p",
-        "text": "Designing for neurodiversity isn’t just about ticking off accessibility checkboxes—it’s about recognizing that different brains process information differently. And when you make your digital experience more inclusive for neurodiverse users, you’re actually making it better for everyone."
+        "text": "Designing for neurodiversity isn\u2019t just about ticking off accessibility checkboxes\u2014it\u2019s about recognizing that different brains process information differently. And when you make your digital experience more inclusive for neurodiverse users, you\u2019re actually making it better for everyone."
       },
       {
         "type": "p",
-        "text": "A site that’s easy to navigate, visually consistent, and adaptable benefits people with ADHD, autism, or dyslexia—but it also creates a smoother experience for the average user who just wants to find what they need quickly, without getting bogged down by distractions."
+        "text": "A site that\u2019s easy to navigate, visually consistent, and adaptable benefits people with ADHD, autism, or dyslexia\u2014but it also creates a smoother experience for the average user who just wants to find what they need quickly, without getting bogged down by distractions."
       },
       {
         "type": "p",
-        "text": "So, if you’re still designing with the mythical \"average user\" in mind, it’s time to rethink your approach. The future of design is inclusive, and that means embracing neurodiversity. Trust me—your users will thank you."
+        "text": "So, if you\u2019re still designing with the mythical \"average user\" in mind, it\u2019s time to rethink your approach. The future of design is inclusive, and that means embracing neurodiversity. Trust me\u2014your users will thank you."
       },
       {
         "type": "p",
@@ -353,11 +353,11 @@
     "content": [
       {
         "type": "p",
-        "text": "Welcome to California, the state where having an inaccessible website could now land you in legal hot water, thanks to the AB 434 accessibility law. Yes, you heard that right. In the ever-expanding world of digital accessibility, 2024 has gifted us a new legal challenge: if your website isn’t compliant with the Web Content Accessibility Guidelines (WCAG), you could face lawsuits. And knowing California’s track record, this won’t stay a state-level issue for long. In a few years, AB 434’s reach could extend across the U.S., much like other California-originated tech laws."
+        "text": "Welcome to California, the state where having an inaccessible website could now land you in legal hot water, thanks to the AB 434 accessibility law. Yes, you heard that right. In the ever-expanding world of digital accessibility, 2024 has gifted us a new legal challenge: if your website isn\u2019t compliant with the Web Content Accessibility Guidelines (WCAG), you could face lawsuits. And knowing California\u2019s track record, this won\u2019t stay a state-level issue for long. In a few years, AB 434\u2019s reach could extend across the U.S., much like other California-originated tech laws."
       },
       {
         "type": "p",
-        "text": "As a website owner, you might be thinking, “Great, another thing to worry about!” Yes, but let’s unpack why this matters and how it’s part of a larger pattern. When California makes a move like this, it’s rarely an isolated event. Tech laws often start here and within a few years, they become federal. From the California Consumer Privacy Act (CCPA) to emissions standards, we’ve seen this movie before. So, buckle up, because AB 434 might just be the opening credits."
+        "text": "As a website owner, you might be thinking, \u201cGreat, another thing to worry about!\u201d Yes, but let\u2019s unpack why this matters and how it\u2019s part of a larger pattern. When California makes a move like this, it\u2019s rarely an isolated event. Tech laws often start here and within a few years, they become federal. From the California Consumer Privacy Act (CCPA) to emissions standards, we\u2019ve seen this movie before. So, buckle up, because AB 434 might just be the opening credits."
       },
       {
         "type": "h2",
@@ -365,23 +365,23 @@
       },
       {
         "type": "p",
-        "text": "First, the essentials: AB 434 requires state agencies and entities to certify that their websites are WCAG 2.0 AA compliant—meaning they must meet specific guidelines to ensure accessibility for people with disabilities. While it technically started as a law applying to government websites, its spirit is now catching fire across the private sector. In short: if you’re operating a website in California, or have customers there, your digital platform had better be accessible—or you’re opening yourself up to lawsuits."
+        "text": "First, the essentials: AB 434 requires state agencies and entities to certify that their websites are WCAG 2.0 AA compliant\u2014meaning they must meet specific guidelines to ensure accessibility for people with disabilities. While it technically started as a law applying to government websites, its spirit is now catching fire across the private sector. In short: if you\u2019re operating a website in California, or have customers there, your digital platform had better be accessible\u2014or you\u2019re opening yourself up to lawsuits."
       },
       {
         "type": "p",
-        "text": "The AB 434 accessibility law is a clear shot across the bow for any company still treating accessibility as an afterthought. It’s not just about compliance for compliance's sake—this is about inclusion, usability, and, yes, avoiding legal headaches."
+        "text": "The AB 434 accessibility law is a clear shot across the bow for any company still treating accessibility as an afterthought. It\u2019s not just about compliance for compliance's sake\u2014this is about inclusion, usability, and, yes, avoiding legal headaches."
       },
       {
         "type": "h2",
-        "text": "What’s WCAG Anyway?"
+        "text": "What\u2019s WCAG Anyway?"
       },
       {
         "type": "p",
-        "text": "The Web Content Accessibility Guidelines (WCAG) are the global standard for making websites accessible to people with various disabilities—visual, auditory, cognitive, and motor impairments. The guidelines ensure that everyone, regardless of their ability, can navigate and use websites. We’re talking things like making text readable, offering keyboard-only navigation, providing alt text for images, and more. It’s the baseline standard for accessibility in the digital world."
+        "text": "The Web Content Accessibility Guidelines (WCAG) are the global standard for making websites accessible to people with various disabilities\u2014visual, auditory, cognitive, and motor impairments. The guidelines ensure that everyone, regardless of their ability, can navigate and use websites. We\u2019re talking things like making text readable, offering keyboard-only navigation, providing alt text for images, and more. It\u2019s the baseline standard for accessibility in the digital world."
       },
       {
         "type": "p",
-        "text": "Yet, compliance is more often the exception than the rule. According to a 2023 WebAIM Million report, a staggering 96.3% of homepages had detectable WCAG failures. With the AB 434 accessibility law now in effect, California is signaling that this is no longer acceptable—and if history is any guide, the rest of the country will follow."
+        "text": "Yet, compliance is more often the exception than the rule. According to a 2023 WebAIM Million report, a staggering 96.3% of homepages had detectable WCAG failures. With the AB 434 accessibility law now in effect, California is signaling that this is no longer acceptable\u2014and if history is any guide, the rest of the country will follow."
       },
       {
         "type": "h2",
@@ -389,7 +389,7 @@
       },
       {
         "type": "p",
-        "text": "One key lesson from the last few decades? What happens in California doesn’t stay in California. Laws that begin here often end up reshaping national policy. Let’s take a look at a few prime examples that started in California before spreading across the U.S., and why AB 434 might be no different."
+        "text": "One key lesson from the last few decades? What happens in California doesn\u2019t stay in California. Laws that begin here often end up reshaping national policy. Let\u2019s take a look at a few prime examples that started in California before spreading across the U.S., and why AB 434 might be no different."
       },
       {
         "type": "h2",
@@ -405,7 +405,7 @@
       },
       {
         "type": "p",
-        "text": "When the FCC repealed net neutrality in 2017, California stepped up with its own law in 2018, effectively reinstating the rules for the state. This move prompted other states to follow, and today, the push for federal net neutrality remains active, with California's law often serving as a benchmark. Could AB 434 be the next state-to-federal pipeline law? With more businesses than ever relying on websites for their core operations, it’s entirely possible."
+        "text": "When the FCC repealed net neutrality in 2017, California stepped up with its own law in 2018, effectively reinstating the rules for the state. This move prompted other states to follow, and today, the push for federal net neutrality remains active, with California's law often serving as a benchmark. Could AB 434 be the next state-to-federal pipeline law? With more businesses than ever relying on websites for their core operations, it\u2019s entirely possible."
       },
       {
         "type": "h2",
@@ -413,15 +413,15 @@
       },
       {
         "type": "p",
-        "text": "Let’s shift gears a bit—literally. California’s strict CARB emissions standards have set the tone for environmental regulations in the U.S. since the 1960s. Over time, many states have adopted California’s stringent standards, and these policies have had a massive influence on federal emissions regulations. If California can lead the charge on something as ubiquitous as vehicle emissions, a website-focused law like AB 434 seems like a shoo-in for national adoption."
+        "text": "Let\u2019s shift gears a bit\u2014literally. California\u2019s strict CARB emissions standards have set the tone for environmental regulations in the U.S. since the 1960s. Over time, many states have adopted California\u2019s stringent standards, and these policies have had a massive influence on federal emissions regulations. If California can lead the charge on something as ubiquitous as vehicle emissions, a website-focused law like AB 434 seems like a shoo-in for national adoption."
       },
       {
         "type": "h2",
-        "text": "AB 434 Isn’t Just About Compliance—It’s About Equity"
+        "text": "AB 434 Isn\u2019t Just About Compliance\u2014It\u2019s About Equity"
       },
       {
         "type": "p",
-        "text": "If you’ve been putting off making your website accessible, the AB 434 accessibility law is your wake-up call. California has officially drawn a line in the sand: ignoring accessibility isn’t just bad for business—it’s illegal. And while this law currently applies directly to state agencies and government-affiliated entities, the ripple effect will likely push private companies to follow suit. In fact, it’s only a matter of time before this becomes a national issue, with federal regulations enforcing digital accessibility across the board."
+        "text": "If you\u2019ve been putting off making your website accessible, the AB 434 accessibility law is your wake-up call. California has officially drawn a line in the sand: ignoring accessibility isn\u2019t just bad for business\u2014it\u2019s illegal. And while this law currently applies directly to state agencies and government-affiliated entities, the ripple effect will likely push private companies to follow suit. In fact, it\u2019s only a matter of time before this becomes a national issue, with federal regulations enforcing digital accessibility across the board."
       },
       {
         "type": "h2",
@@ -434,9 +434,9 @@
       {
         "type": "ol",
         "items": [
-          "Better User Experience for Everyone: Accessibility isn’t just about people with disabilities; it improves the experience for all users. For instance, captions on videos help not only those with hearing impairments but also anyone who prefers to watch videos with the sound off. And a clean, well-structured website is easier for everyone to navigate.",
-          "Improved SEO: Google’s algorithms favor websites that follow best practices for accessibility. Features like clear headings, alt text, and keyboard navigation can improve your website’s ranking on search engines, making it easier for people to find you.",
-          "Reach a Larger Audience: By complying with WCAG standards, you’re ensuring that millions of potential users with disabilities can access and use your website. It’s an ethical win that could also boost your customer base."
+          "Better User Experience for Everyone: Accessibility isn\u2019t just about people with disabilities; it improves the experience for all users. For instance, captions on videos help not only those with hearing impairments but also anyone who prefers to watch videos with the sound off. And a clean, well-structured website is easier for everyone to navigate.",
+          "Improved SEO: Google\u2019s algorithms favor websites that follow best practices for accessibility. Features like clear headings, alt text, and keyboard navigation can improve your website\u2019s ranking on search engines, making it easier for people to find you.",
+          "Reach a Larger Audience: By complying with WCAG standards, you\u2019re ensuring that millions of potential users with disabilities can access and use your website. It\u2019s an ethical win that could also boost your customer base."
         ]
       },
       {
@@ -445,11 +445,11 @@
       },
       {
         "type": "p",
-        "text": "California’s AB 434 accessibility law is just the beginning. We’ve seen it before with privacy laws, emissions standards, and net neutrality: what starts in California eventually becomes a national movement. And with increasing pressure on both businesses and the federal government to prioritize accessibility, it’s only a matter of time before AB 434—or something like it—becomes a nationwide mandate."
+        "text": "California\u2019s AB 434 accessibility law is just the beginning. We\u2019ve seen it before with privacy laws, emissions standards, and net neutrality: what starts in California eventually becomes a national movement. And with increasing pressure on both businesses and the federal government to prioritize accessibility, it\u2019s only a matter of time before AB 434\u2014or something like it\u2014becomes a nationwide mandate."
       },
       {
         "type": "p",
-        "text": "So, don’t wait for lawsuits to start rolling in before you take action. Get ahead of the curve now, and make your website accessible before you’re forced to do so by law. The AB 434 accessibility law is just the first domino to fall—more states will surely follow, and eventually, the federal government will too."
+        "text": "So, don\u2019t wait for lawsuits to start rolling in before you take action. Get ahead of the curve now, and make your website accessible before you\u2019re forced to do so by law. The AB 434 accessibility law is just the first domino to fall\u2014more states will surely follow, and eventually, the federal government will too."
       },
       {
         "type": "h2",
@@ -458,15 +458,15 @@
       {
         "type": "ul",
         "items": [
-          "AB 434 accessibility law makes it a suable offense if your website isn’t WCAG compliant, starting in California.",
+          "AB 434 accessibility law makes it a suable offense if your website isn\u2019t WCAG compliant, starting in California.",
           "California laws, like the CCPA and CARB emissions standards, often pave the way for federal regulations.",
           "Beyond avoiding lawsuits, complying with WCAG improves user experience, boosts SEO, and expands your audience.",
-          "Get ahead of the law now—because it’s only a matter of time before AB 434’s reach goes national."
+          "Get ahead of the law now\u2014because it\u2019s only a matter of time before AB 434\u2019s reach goes national."
         ]
       },
       {
         "type": "p",
-        "text": "If nothing else, it’s cheaper to make your website accessible now than to pay for legal fees later. Or, you know, you can always learn about accessibility the hard way—in court."
+        "text": "If nothing else, it\u2019s cheaper to make your website accessible now than to pay for legal fees later. Or, you know, you can always learn about accessibility the hard way\u2014in court."
       }
     ]
   },
@@ -486,7 +486,7 @@
     "content": [
       {
         "type": "p",
-        "text": "Responsive web design ensures that a website’s layout automatically adjusts to fit the screen size of the device being used, whether it’s a smartphone, tablet, or desktop computer. This dynamic design approach uses media queries to detect the screen size and orientation of the device, then adapts the site’s layout accordingly. The key benefit? A seamless browsing experience, no matter what device the user is on, with content that always fits comfortably on the screen."
+        "text": "Responsive web design ensures that a website\u2019s layout automatically adjusts to fit the screen size of the device being used, whether it\u2019s a smartphone, tablet, or desktop computer. This dynamic design approach uses media queries to detect the screen size and orientation of the device, then adapts the site\u2019s layout accordingly. The key benefit? A seamless browsing experience, no matter what device the user is on, with content that always fits comfortably on the screen."
       },
       {
         "type": "h2",
@@ -500,14 +500,14 @@
         "type": "ul",
         "items": [
           "Consistent User Experience: Users enjoy a great experience across all devices, from mobile phones to large desktop monitors, without having to zoom in or scroll awkwardly.",
-          "SEO Benefits: Google recommends responsive sites for search engine optimization (SEO) as they’re easier to crawl and index, boosting rankings.",
+          "SEO Benefits: Google recommends responsive sites for search engine optimization (SEO) as they\u2019re easier to crawl and index, boosting rankings.",
           "Single Website Version: Only one version of the site is needed, reducing complexity and making maintenance easier.",
           "Cost Efficiency: Maintaining a single, responsive site is more cost-effective than managing separate versions for mobile and desktop."
         ]
       },
       {
         "type": "p",
-        "text": "These benefits make responsive design the default choice for creating new websites. It’s efficient, scalable, and meets the needs of modern, multi-device users."
+        "text": "These benefits make responsive design the default choice for creating new websites. It\u2019s efficient, scalable, and meets the needs of modern, multi-device users."
       },
       {
         "type": "h2",
@@ -515,7 +515,7 @@
       },
       {
         "type": "p",
-        "text": "With internet usage split across various devices, responsive design has become essential for delivering a consistent and user-friendly experience. A responsive site ensures flexibility and adapts to any screen size, making it more efficient to maintain than designing specific layouts for each type of device. While a responsive site may take longer to load on slower connections due to its dynamic nature, it’s still the better option for most new websites, according to industry experts."
+        "text": "With internet usage split across various devices, responsive design has become essential for delivering a consistent and user-friendly experience. A responsive site ensures flexibility and adapts to any screen size, making it more efficient to maintain than designing specific layouts for each type of device. While a responsive site may take longer to load on slower connections due to its dynamic nature, it\u2019s still the better option for most new websites, according to industry experts."
       },
       {
         "type": "h2",
@@ -561,7 +561,7 @@
         "type": "ul",
         "items": [
           "Flexibility vs. Specificity: Responsive design uses fluid grids that adjust to any screen size, offering a flexible, seamless experience. Adaptive design, however, uses fixed layouts for specific screens, providing a more tailored but less flexible experience.",
-          "Development Complexity: Responsive design generally requires less development effort since there’s only one layout for all devices. In contrast, adaptive design needs multiple layouts, leading to more complex development and updates.",
+          "Development Complexity: Responsive design generally requires less development effort since there\u2019s only one layout for all devices. In contrast, adaptive design needs multiple layouts, leading to more complex development and updates.",
           "Performance Optimization: While responsive sites can struggle with performance on slower networks due to loading larger assets, adaptive design can optimize performance by serving device-specific content, leading to quicker load times."
         ]
       },
@@ -577,11 +577,11 @@
         "type": "ol",
         "items": [
           "Simplicity: A simple, easy-to-navigate website is key. Avoid clutter and unnecessary features that might slow down loading times or confuse users. This makes the site faster, easier to use, and more enjoyable for visitors.",
-          "Use Hamburger Menus: Mobile devices have limited screen space, so a full navigation bar often isn’t practical. A hamburger menu, which hides the navigation options behind a simple icon, frees up space and keeps the interface clean and user-friendly.",
+          "Use Hamburger Menus: Mobile devices have limited screen space, so a full navigation bar often isn\u2019t practical. A hamburger menu, which hides the navigation options behind a simple icon, frees up space and keeps the interface clean and user-friendly.",
           "Use Visual Content Wisely: Images and videos can make a website more engaging, but they should be optimized to prevent slow load times. Compressing media files ensures faster loading without compromising quality, improving the user experience without frustrating visitors.",
           "Avoid Popups: Popups can be particularly annoying on mobile devices, often obstructing the content users want to see. Worse, Google penalizes sites with disruptive popups, which can negatively impact search rankings. Avoid them for a smoother and less intrusive user experience.",
-          "Highlight Key Elements: Make important content easy to find. Users on mobile devices don’t want to search around for critical information—ensure it’s front and center. This improves user satisfaction and increases the likelihood of returning visitors.",
-          "Optimize for One-Handed Use: Mobile users often navigate with one hand, so design buttons and interactive elements to be reachable within the thumb’s natural range, typically in the lower part of the screen.",
+          "Highlight Key Elements: Make important content easy to find. Users on mobile devices don\u2019t want to search around for critical information\u2014ensure it\u2019s front and center. This improves user satisfaction and increases the likelihood of returning visitors.",
+          "Optimize for One-Handed Use: Mobile users often navigate with one hand, so design buttons and interactive elements to be reachable within the thumb\u2019s natural range, typically in the lower part of the screen.",
           "Clickable Contact Information: Make phone numbers and email addresses clickable so users can quickly reach out. This small touch streamlines the user experience and reflects a customer-first design approach."
         ]
       },
@@ -595,7 +595,7 @@
       },
       {
         "type": "p",
-        "text": "By following best practices like simplifying layouts, optimizing media, and ensuring mobile-friendly navigation, you can build a website that meets the expectations of today’s mobile-first users. As mobile internet usage continues to grow, prioritizing responsive and user-centric design strategies is essential for staying competitive in the digital landscape."
+        "text": "By following best practices like simplifying layouts, optimizing media, and ensuring mobile-friendly navigation, you can build a website that meets the expectations of today\u2019s mobile-first users. As mobile internet usage continues to grow, prioritizing responsive and user-centric design strategies is essential for staying competitive in the digital landscape."
       }
     ]
   },
@@ -622,7 +622,7 @@
       },
       {
         "type": "p",
-        "text": "An accessible website isn't just about meeting legal requirements—it's about enhancing user experience and fostering brand loyalty. A site that works for everyone helps businesses reach a broader audience while creating a positive and equitable online environment."
+        "text": "An accessible website isn't just about meeting legal requirements\u2014it's about enhancing user experience and fostering brand loyalty. A site that works for everyone helps businesses reach a broader audience while creating a positive and equitable online environment."
       },
       {
         "type": "h2",
@@ -630,11 +630,11 @@
       },
       {
         "type": "p",
-        "text": "Inclusive design goes hand in hand with web accessibility. It's about crafting digital spaces that accommodate the diverse needs of users from the start, rather than treating accessibility as an afterthought. By embracing inclusive design, organizations ensure that they’re meeting both legal obligations and ethical responsibilities."
+        "text": "Inclusive design goes hand in hand with web accessibility. It's about crafting digital spaces that accommodate the diverse needs of users from the start, rather than treating accessibility as an afterthought. By embracing inclusive design, organizations ensure that they\u2019re meeting both legal obligations and ethical responsibilities."
       },
       {
         "type": "p",
-        "text": "On a practical level, prioritizing accessibility can improve user satisfaction and engagement. It makes websites more intuitive and user-friendly for everyone—not just people with disabilities. In fact, many accessibility features, like clearer navigation and better color contrast, enhance the experience for all users. It’s a strategic advantage in today’s diverse, global market."
+        "text": "On a practical level, prioritizing accessibility can improve user satisfaction and engagement. It makes websites more intuitive and user-friendly for everyone\u2014not just people with disabilities. In fact, many accessibility features, like clearer navigation and better color contrast, enhance the experience for all users. It\u2019s a strategic advantage in today\u2019s diverse, global market."
       },
       {
         "type": "h2",
@@ -663,11 +663,11 @@
       },
       {
         "type": "p",
-        "text": "Web accessibility isn’t just the right thing to do—it’s often the law. In the U.S., the Americans with Disabilities Act (ADA) and Section 508 of the Rehabilitation Act mandate that websites be accessible to people with disabilities. In Europe, the EU Web Accessibility Directive enforces similar standards for public sector websites. Failure to comply can lead to lawsuits, fines, and damaged reputations."
+        "text": "Web accessibility isn\u2019t just the right thing to do\u2014it\u2019s often the law. In the U.S., the Americans with Disabilities Act (ADA) and Section 508 of the Rehabilitation Act mandate that websites be accessible to people with disabilities. In Europe, the EU Web Accessibility Directive enforces similar standards for public sector websites. Failure to comply can lead to lawsuits, fines, and damaged reputations."
       },
       {
         "type": "p",
-        "text": "But beyond the legal obligations, there’s a strong ethical case for accessibility. By making their websites usable for everyone, businesses demonstrate social responsibility and inclusiveness. This can boost brand loyalty, as consumers are increasingly drawn to companies that prioritize accessibility and inclusivity."
+        "text": "But beyond the legal obligations, there\u2019s a strong ethical case for accessibility. By making their websites usable for everyone, businesses demonstrate social responsibility and inclusiveness. This can boost brand loyalty, as consumers are increasingly drawn to companies that prioritize accessibility and inclusivity."
       },
       {
         "type": "h2",
@@ -675,7 +675,7 @@
       },
       {
         "type": "p",
-        "text": "The Web Content Accessibility Guidelines (WCAG), created by the World Wide Web Consortium (W3C), set the global standards for web accessibility. These guidelines help web designers and developers create content that’s more inclusive by ensuring it’s:"
+        "text": "The Web Content Accessibility Guidelines (WCAG), created by the World Wide Web Consortium (W3C), set the global standards for web accessibility. These guidelines help web designers and developers create content that\u2019s more inclusive by ensuring it\u2019s:"
       },
       {
         "type": "ul",
@@ -701,7 +701,7 @@
       {
         "type": "ol",
         "items": [
-          "Perceivable: Ensure content can be perceived by users in different ways—like providing text alternatives for images and captions for audio or video content.",
+          "Perceivable: Ensure content can be perceived by users in different ways\u2014like providing text alternatives for images and captions for audio or video content.",
           "Operable: Design the site so it can be navigated without a mouse, using just a keyboard or voice commands, which helps users with motor disabilities.",
           "Understandable: Use simple, clear language and logical layouts, making sure users know how to interact with the site without confusion.",
           "Robust: Build content that works well with various technologies, ensuring compatibility with assistive tools like screen readers."
@@ -724,7 +724,7 @@
         "items": [
           "Provide text alternatives: Offer descriptive text for all non-text elements, such as images and videos, so users with visual impairments can access the same information.",
           "Ensure content is adaptable: Design layouts that work across various screen sizes and devices, and use sufficient contrast between text and backgrounds to improve readability.",
-          "Make functionality keyboard-accessible: Ensure that all features can be accessed and navigated using just a keyboard, as some users can’t use a mouse.",
+          "Make functionality keyboard-accessible: Ensure that all features can be accessed and navigated using just a keyboard, as some users can\u2019t use a mouse.",
           "Allow users enough time: Avoid imposing strict time limits on interactions, and provide options to extend time for users who need it.",
           "Avoid triggering content: Avoid flashing lights or rapidly changing images that could cause seizures or discomfort.",
           "Offer clear navigation: Provide intuitive navigation aids, such as menus and orientation tools, so users can easily find their way around the site.",
@@ -762,7 +762,7 @@
       },
       {
         "type": "p",
-        "text": "It’s also important to educate development teams about accessibility best practices. Regular training ensures that developers understand how to implement accessible features, such as proper HTML tags and ARIA labels, and keep up with the latest accessibility standards."
+        "text": "It\u2019s also important to educate development teams about accessibility best practices. Regular training ensures that developers understand how to implement accessible features, such as proper HTML tags and ARIA labels, and keep up with the latest accessibility standards."
       },
       {
         "type": "p",
@@ -818,7 +818,7 @@
       },
       {
         "type": "p",
-        "text": "For example, two phones might have identical technical specs, but one may stand out more simply because it’s more aesthetically pleasing or feels more intuitive to use. Desirability testing can help determine these subtle, emotional differences that impact consumer choices."
+        "text": "For example, two phones might have identical technical specs, but one may stand out more simply because it\u2019s more aesthetically pleasing or feels more intuitive to use. Desirability testing can help determine these subtle, emotional differences that impact consumer choices."
       },
       {
         "type": "h2",
@@ -826,7 +826,7 @@
       },
       {
         "type": "p",
-        "text": "Desirability testing typically involves several qualitative methods, such as interviews, focus groups, and surveys, to gather rich data about users’ emotional responses. Some of the most commonly used techniques include:"
+        "text": "Desirability testing typically involves several qualitative methods, such as interviews, focus groups, and surveys, to gather rich data about users\u2019 emotional responses. Some of the most commonly used techniques include:"
       },
       {
         "type": "ul",
@@ -838,7 +838,7 @@
       },
       {
         "type": "p",
-        "text": "These methods help brands identify patterns in how users perceive their products, offering guidance on where to focus improvements. They also help teams recognize the emotional ties users may develop based on the product’s design, user experience, or narrative."
+        "text": "These methods help brands identify patterns in how users perceive their products, offering guidance on where to focus improvements. They also help teams recognize the emotional ties users may develop based on the product\u2019s design, user experience, or narrative."
       },
       {
         "type": "h2",
@@ -852,13 +852,13 @@
         "type": "ul",
         "items": [
           "Feasibility refers to the practicality of implementing a product, considering available technology, resources, and time constraints. It asks, \"Can we build this?\"",
-          "Viability measures a product’s potential for long-term success, particularly its profitability. It asks, \"Should we build this?\"",
+          "Viability measures a product\u2019s potential for long-term success, particularly its profitability. It asks, \"Should we build this?\"",
           "Desirability, on the other hand, focuses on the emotional connection and user experience. It asks, \"Will people want this?\""
         ]
       },
       {
         "type": "p",
-        "text": "While these three concepts are distinct, they are interrelated. A product may be feasible to build and financially viable, but if it isn’t desirable to users, it’s unlikely to succeed in the long run. The most successful products strike a balance between these three elements."
+        "text": "While these three concepts are distinct, they are interrelated. A product may be feasible to build and financially viable, but if it isn\u2019t desirable to users, it\u2019s unlikely to succeed in the long run. The most successful products strike a balance between these three elements."
       },
       {
         "type": "h2",
@@ -866,11 +866,11 @@
       },
       {
         "type": "p",
-        "text": "A product’s design plays a significant role in desirability. Users are often drawn to products that are visually appealing, and elements like color, shape, and texture can evoke strong emotional responses. For instance, the sleek design of an iPhone doesn’t just make it look good—it makes users feel good, which in turn boosts desirability."
+        "text": "A product\u2019s design plays a significant role in desirability. Users are often drawn to products that are visually appealing, and elements like color, shape, and texture can evoke strong emotional responses. For instance, the sleek design of an iPhone doesn\u2019t just make it look good\u2014it makes users feel good, which in turn boosts desirability."
       },
       {
         "type": "p",
-        "text": "But design isn’t just about looks. A seamless and frictionless user experience (UX) also enhances desirability. If a product is easy and pleasurable to use, it creates a positive emotional connection with the user. When interaction with the product feels intuitive, people are more likely to develop a preference for it and become repeat customers."
+        "text": "But design isn\u2019t just about looks. A seamless and frictionless user experience (UX) also enhances desirability. If a product is easy and pleasurable to use, it creates a positive emotional connection with the user. When interaction with the product feels intuitive, people are more likely to develop a preference for it and become repeat customers."
       },
       {
         "type": "h2",
@@ -883,7 +883,7 @@
       {
         "type": "ol",
         "items": [
-          "A/B Testing: A/B tests allow brands to experiment with different design or feature variations and observe how users react. For example, changing the color of a \"Buy Now\" button or tweaking a product’s layout could result in higher conversion rates if users find one version more desirable than the other.",
+          "A/B Testing: A/B tests allow brands to experiment with different design or feature variations and observe how users react. For example, changing the color of a \"Buy Now\" button or tweaking a product\u2019s layout could result in higher conversion rates if users find one version more desirable than the other.",
           "Card Sorting: In card sorting exercises, users are asked to group and rank different features or aspects of a product. This can help a business understand which features users find most important and desirable, aiding in product refinement.",
           "Semantic Differential Scales: These scales use opposite adjectives to gauge user feelings about specific product aspects. For instance, users might be asked to rate a product between \"stylish\" and \"dated\" or \"fun\" and \"boring.\" This gives businesses a clearer understanding of how the product makes users feel emotionally.",
           "Focus Groups and Interviews: Sometimes, deeper insights come from directly talking to users. Focus groups and interviews allow brands to dig into the emotional motivations behind product preferences, gathering qualitative data that surveys may miss."
@@ -919,11 +919,11 @@
       },
       {
         "type": "p",
-        "text": "Desirability testing isn’t without its challenges. Bias is one significant issue that can skew results. For example, if participants know they are being observed, they may give overly positive feedback. To combat this, it’s essential to create testing environments that encourage honest responses and reduce bias as much as possible, such as using blind testing methods."
+        "text": "Desirability testing isn\u2019t without its challenges. Bias is one significant issue that can skew results. For example, if participants know they are being observed, they may give overly positive feedback. To combat this, it\u2019s essential to create testing environments that encourage honest responses and reduce bias as much as possible, such as using blind testing methods."
       },
       {
         "type": "p",
-        "text": "Additionally, while a product may be emotionally appealing, it still needs to function well. Striking the right balance between desirability and usability is crucial. After all, a beautiful product that’s frustrating to use will quickly lose its charm."
+        "text": "Additionally, while a product may be emotionally appealing, it still needs to function well. Striking the right balance between desirability and usability is crucial. After all, a beautiful product that\u2019s frustrating to use will quickly lose its charm."
       },
       {
         "type": "h2",
@@ -931,11 +931,11 @@
       },
       {
         "type": "p",
-        "text": "Desirability testing is a critical tool in creating products that do more than just work—they create emotional connections with users. By understanding what makes a product emotionally appealing, companies can design offerings that people not only use but love. As technology advances and user preferences evolve, desirability testing will only grow more crucial in helping brands stay competitive and relevant in a crowded market."
+        "text": "Desirability testing is a critical tool in creating products that do more than just work\u2014they create emotional connections with users. By understanding what makes a product emotionally appealing, companies can design offerings that people not only use but love. As technology advances and user preferences evolve, desirability testing will only grow more crucial in helping brands stay competitive and relevant in a crowded market."
       },
       {
         "type": "p",
-        "text": "Incorporating these insights into every stage of the product development process—from early design to post-launch—ensures that products not only meet functional needs but also foster lasting emotional bonds, leading to greater customer loyalty and market success."
+        "text": "Incorporating these insights into every stage of the product development process\u2014from early design to post-launch\u2014ensures that products not only meet functional needs but also foster lasting emotional bonds, leading to greater customer loyalty and market success."
       }
     ]
   },
@@ -944,7 +944,7 @@
     "title": "AN UPHILL BATTLE",
     "description": "Why Staircases Are an Uphill Battle for Inclusion",
     "date": "5/7/2024",
-    "readTime": "2 min read",
+    "readTime": "PIPELINE-TEST min read",
     "tags": [
       "INCLUSION",
       "PHYSICAL"
@@ -954,15 +954,15 @@
     "content": [
       {
         "type": "p",
-        "text": "Why Staircases Are an Uphill Battle for Inclusion – Choose Ramps Instead"
+        "text": "Why Staircases Are an Uphill Battle for Inclusion \u2013 Choose Ramps Instead"
       },
       {
         "type": "p",
-        "text": "Let’s cut to the chase: staircases are great. If you’re a mountain goat."
+        "text": "Let\u2019s cut to the chase: staircases are great. If you\u2019re a mountain goat."
       },
       {
         "type": "p",
-        "text": "For everyone else, especially those with mobility challenges, stairs can be an imposing, inconvenient, and downright exclusionary part of urban and architectural design. That’s where ramps come in. In the age-old battle of staircases vs. ramps, the latter is the obvious winner when it comes to inclusive design. Yet, time and again, buildings and public spaces are still littered with steps, leaving many of us to question: Are we designing for people, or just for convenience?"
+        "text": "For everyone else, especially those with mobility challenges, stairs can be an imposing, inconvenient, and downright exclusionary part of urban and architectural design. That\u2019s where ramps come in. In the age-old battle of staircases vs. ramps, the latter is the obvious winner when it comes to inclusive design. Yet, time and again, buildings and public spaces are still littered with steps, leaving many of us to question: Are we designing for people, or just for convenience?"
       },
       {
         "type": "h2",
@@ -970,7 +970,7 @@
       },
       {
         "type": "p",
-        "text": "Staircases have often been celebrated as a versatile design element. They add vertical movement, provide shortcuts, and give architects an opportunity to show off their grandiose visions (hello, marble steps!). But in reality, stairs are quite limited in their audience. If you’ve ever had a broken leg, carried a pram, or tried to push a wheelchair up a flight of stairs, you’ll know that stairs don’t play nicely with everyone. They're exclusive by nature, requiring physical ability, balance, and coordination just to perform the simple task of moving from one level to another. They don’t offer much flexibility for people who are differently-abled, elderly, or parents juggling their children and bags of groceries."
+        "text": "Staircases have often been celebrated as a versatile design element. They add vertical movement, provide shortcuts, and give architects an opportunity to show off their grandiose visions (hello, marble steps!). But in reality, stairs are quite limited in their audience. If you\u2019ve ever had a broken leg, carried a pram, or tried to push a wheelchair up a flight of stairs, you\u2019ll know that stairs don\u2019t play nicely with everyone. They're exclusive by nature, requiring physical ability, balance, and coordination just to perform the simple task of moving from one level to another. They don\u2019t offer much flexibility for people who are differently-abled, elderly, or parents juggling their children and bags of groceries."
       },
       {
         "type": "p",
@@ -982,11 +982,11 @@
       },
       {
         "type": "p",
-        "text": "Now, ramps. Glorious, smooth, non-judgmental ramps. Ramps offer something stairs will never be able to: accessibility for all. They are the real multitaskers, accommodating wheelchairs, walkers, strollers, and people of varying mobility levels. But ramps aren’t just for those with mobility challenges; they help anyone who might find stairs difficult or exhausting. A ramp doesn't discriminate based on age, injury, or the number of shopping bags you’re lugging."
+        "text": "Now, ramps. Glorious, smooth, non-judgmental ramps. Ramps offer something stairs will never be able to: accessibility for all. They are the real multitaskers, accommodating wheelchairs, walkers, strollers, and people of varying mobility levels. But ramps aren\u2019t just for those with mobility challenges; they help anyone who might find stairs difficult or exhausting. A ramp doesn't discriminate based on age, injury, or the number of shopping bags you\u2019re lugging."
       },
       {
         "type": "p",
-        "text": "Here’s the kicker – ramps aren’t even that radical. We already know they’re better for inclusivity, yet ramps are often treated like afterthoughts, as if they’re a \"nice-to-have\" rather than essential. Buildings are still being designed with grand staircases and tiny side ramps tucked away as an apology. If a ramp is an afterthought, what does that say about the people who rely on it?"
+        "text": "Here\u2019s the kicker \u2013 ramps aren\u2019t even that radical. We already know they\u2019re better for inclusivity, yet ramps are often treated like afterthoughts, as if they\u2019re a \"nice-to-have\" rather than essential. Buildings are still being designed with grand staircases and tiny side ramps tucked away as an apology. If a ramp is an afterthought, what does that say about the people who rely on it?"
       },
       {
         "type": "h2",
@@ -994,27 +994,27 @@
       },
       {
         "type": "p",
-        "text": "Why do we keep building staircases at all, then? Could it be that we are still trapped in a mindset where 'convenience' trumps empathy? Where aesthetics are prioritized over equity? Stairs represent a kind of able-bodied privilege in design – a relic of the past where mobility was assumed to be uniform. The truth is, inclusive design isn't just about catering to the majority, it’s about ensuring access for everyone."
+        "text": "Why do we keep building staircases at all, then? Could it be that we are still trapped in a mindset where 'convenience' trumps empathy? Where aesthetics are prioritized over equity? Stairs represent a kind of able-bodied privilege in design \u2013 a relic of the past where mobility was assumed to be uniform. The truth is, inclusive design isn't just about catering to the majority, it\u2019s about ensuring access for everyone."
       },
       {
         "type": "p",
-        "text": "By choosing ramps over stairs, we signal that our spaces welcome all. We design with empathy, and that’s something a staircase can never achieve. A ramp, however, opens doors—literally and figuratively—to a more inclusive future."
+        "text": "By choosing ramps over stairs, we signal that our spaces welcome all. We design with empathy, and that\u2019s something a staircase can never achieve. A ramp, however, opens doors\u2014literally and figuratively\u2014to a more inclusive future."
       },
       {
         "type": "h2",
-        "text": "Let’s Ramp It Up"
+        "text": "Let\u2019s Ramp It Up"
       },
       {
         "type": "p",
-        "text": "At the end of the day, ramps aren’t just a practical solution; they are a step (pun intended) towards a more compassionate and inclusive world. They challenge outdated design norms and invite us to rethink what accessibility truly means. So, next time you’re standing at the foot of a grand staircase, take a moment to appreciate how it looks... and then imagine how it feels for someone who can’t use it."
+        "text": "At the end of the day, ramps aren\u2019t just a practical solution; they are a step (pun intended) towards a more compassionate and inclusive world. They challenge outdated design norms and invite us to rethink what accessibility truly means. So, next time you\u2019re standing at the foot of a grand staircase, take a moment to appreciate how it looks... and then imagine how it feels for someone who can\u2019t use it."
       },
       {
         "type": "p",
-        "text": "Ramps may not be as flashy, but they’re the unsung heroes of inclusive design. And honestly, isn’t it time we gave them centre stage?"
+        "text": "Ramps may not be as flashy, but they\u2019re the unsung heroes of inclusive design. And honestly, isn\u2019t it time we gave them centre stage?"
       },
       {
         "type": "p",
-        "text": "Now, let’s ditch the stairs. They’ve had their turn."
+        "text": "Now, let\u2019s ditch the stairs. They\u2019ve had their turn."
       }
     ]
   }
